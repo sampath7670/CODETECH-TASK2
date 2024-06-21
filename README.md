@@ -4,7 +4,7 @@
 **Duration**: 10Th JUNE to 22Nd JULY 2024<br>
 **Mentor**:G.SRAVANI<br>
 # Student Grade Tracker Project Overview
-# Objective:
+1.*Objective*:
 The goal of this project is to create a Python program that allows users to input grades for different subjects or assignments.<br>
 It calculates the average grade, assigns a letter grade, and computes the GPA (Grade Point Average).<br>
 Features Implemented:<br>
